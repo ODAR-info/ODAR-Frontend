@@ -1,1 +1,3 @@
-# ODAR-Frontend
+# ODAR Frontend
+
+Frontend assets for ODAR.
